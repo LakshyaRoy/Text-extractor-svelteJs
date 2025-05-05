@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+strong {
+	@apply font-bold text-white/90;
+}
+
+a {
+	@apply text-blue-400/90;
+}
