@@ -127,7 +127,7 @@
 						bind:this={inputUrl}
 						type="url"
 						name="url"
-						placeholder="Enter the URL here"
+						placeholder="Enter the URL here (It can be a news url or some article url)"
 						class="w-full rounded-md px-4 py-2.5 outline outline-white/50"
 						required
 					/>
