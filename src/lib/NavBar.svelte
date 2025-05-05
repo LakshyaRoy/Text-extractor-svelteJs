@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	import LogoImage from '../asserts/Logo.png';
+	import LogoImage from '../asserts/Logo.webp';
 
 	const navItem = [
 		{ name: 'Summarize', url: '/' },
